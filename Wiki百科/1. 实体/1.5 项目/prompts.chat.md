@@ -1,12 +1,13 @@
 ---
-标题: prompts.chat
-创建时间: 2026-04-13 05:25:00
-最后更新: 2026-04-13 05:25:00
-标签: [prompt, 提示词, 开源, AI, 工具]
-类型: 开源项目
-状态: 活跃
-GitHub: https://github.com/f/prompts.chat
-网站: https://prompts.chat
+title: prompts.chat
+created: 2026-04-13 05:25:00
+updated: 2026-04-15
+type: entity
+category: projects
+tags: [prompt, 提示词, 开源, AI, 工具]
+status: 活跃
+github: https://github.com/f/prompts.chat
+website: https://prompts.chat
 ---
 
 # prompts.chat

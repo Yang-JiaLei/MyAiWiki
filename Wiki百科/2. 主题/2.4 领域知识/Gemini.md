@@ -1,7 +1,8 @@
 ---
 title: Gemini
-type: theme
-category: AI Models
+updated: 2026-04-15
+type: topic
+category: ai-models
 related:
   - [[Wiki百科/1. 实体/1.4 工具/gemini-cli.md]]
   - [[Google]]

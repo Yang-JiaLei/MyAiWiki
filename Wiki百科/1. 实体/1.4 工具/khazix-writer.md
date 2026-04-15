@@ -1,14 +1,15 @@
 ---
-标题: khazix-writer
-创建时间: 2026-04-14 06:35:00
-最后更新: 2026-04-14 06:35:00
-标签: [skill, 写作, 公众号, 长文, 风格, 工具]
-类型: Agent Skill
-状态: 已安装
-作者: KKKKhazix (数字生命卡兹克)
-仓库: https://github.com/KKKKhazix/khazix-skills
-安装路径: ~/.hermes/skills/khazix-writer/
-技能类型: 内容创作
+title: khazix-writer
+created: 2026-04-14 06:35:00
+updated: 2026-04-15
+type: entity
+category: tools
+tags: [skill, 写作, 公众号, 长文, 风格, 工具]
+status: 已安装
+author: KKKKhazix (数字生命卡兹克)
+repo: https://github.com/KKKKhazix/khazix-skills
+install_path: ~/.hermes/skills/khazix-writer/
+skill_type: 内容创作
 ---
 
 # khazix-writer Skill

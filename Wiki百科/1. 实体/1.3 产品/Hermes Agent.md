@@ -1,14 +1,15 @@
 ---
-标题: Hermes Agent
-创建时间: 2026-04-14 06:45:00
-最后更新: 2026-04-14 06:50:00
-标签: [agent, ai, 开源, 多平台, 知识库, skill, 本地优先]
-类型: 产品
-状态: 活跃
-版本: v3.x
-仓库: https://github.com/Yang-JiaLei/MyAiWiki
-作者: Yang-JiaLei
-许可证: MIT
+title: Hermes Agent
+created: 2026-04-14 06:45:00
+updated: 2026-04-15
+type: entity
+category: products
+tags: [agent, ai, 开源, 多平台, 知识库, skill, 本地优先]
+status: 活跃
+version: v3.x
+repo: https://github.com/Yang-JiaLei/MyAiWiki
+author: Yang-JiaLei
+license: MIT
 ---
 
 # Hermes Agent
