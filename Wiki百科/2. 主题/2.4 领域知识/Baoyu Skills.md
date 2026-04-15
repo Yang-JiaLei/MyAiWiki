@@ -1,7 +1,9 @@
 ---
-名称: Baoyu Skills
-类别: 工具集
-标签: [claude-code, skills, ai, automation, content-generation, image-generation]
+title: Baoyu Skills
+updated: 2026-04-15
+type: topic
+category: tool-collections
+tags: [claude-code, skills, ai, automation, content-generation, image-generation]
 ---
 
 # Baoyu Skills 总览

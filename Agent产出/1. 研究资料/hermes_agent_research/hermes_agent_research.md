@@ -1,11 +1,14 @@
 ---
-标题: Hermes Agent 深度研究报告
-创建时间: 2026-04-14 01:53:14
-研究对象: Hermes Agent
-研究类型: 横纵分析法（Horizontal-Vertical Analysis）
-研究版本: v1.0
-作者: Hermes Agent（自动生成）
-研究方法: hv-analysis Skill
+title: Hermes Agent 深度研究报告
+created: 2026-04-14 01:53:14
+updated: 2026-04-15
+type: report
+category: agent-research
+research_subject: Hermes Agent
+research_type: 横纵分析法（Horizontal-Vertical Analysis）
+research_version: v1.0
+author: Hermes Agent（自动生成）
+research_method: hv-analysis Skill
 ---
 
 # Hermes Agent 深度研究报告
@@ -1696,4 +1699,3 @@ AI Agent 市场可分为以下几个细分领域：
 ├── hermes_agent_research.md # 本完整报告
 └── hermes_agent_research.pdf # PDF版本（生成中）
 ```
-

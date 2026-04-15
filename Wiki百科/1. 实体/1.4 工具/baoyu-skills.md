@@ -1,9 +1,11 @@
 ---
-名称: baoyu-skills
-类型: 工具
-标签: [claude-code, skills, ai-agent, content-generation]
-创建时间: 2026-04-12
-状态: 已安装
+title: baoyu-skills
+created: 2026-04-12
+updated: 2026-04-15
+type: entity
+category: tools
+tags: [claude-code, skills, ai-agent, content-generation]
+status: 已安装
 ---
 
 # baoyu-skills
