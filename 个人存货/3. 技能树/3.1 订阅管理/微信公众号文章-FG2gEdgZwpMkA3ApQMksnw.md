@@ -1,9 +1,12 @@
 ---
-title: FG2gEdgZwpMkA3ApQMksnw
+title: 微信公众号文章（待确认）
 url: https://mp.weixin.qq.com/s/FG2gEdgZwpMkA3ApQMksnw
 service: 微信公众号
 account_name: 待确认
 created: 2026-04-12
+updated: 2026-04-15
+type: note
+category: personal-subscriptions
 tags: [subscriptions, wechat, article]
 ---
 
