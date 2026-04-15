@@ -1,11 +1,12 @@
 ---
-标题: install-hermes-skill-from-github Skill
-创建时间: 2026-04-14 06:45:00
-最后更新: 2026-04-14 06:45:00
-标签: [skill, install, github, hermesskill, 部署]
-类型: Agent Skill
-状态: 已记录
-技能类型: 系统集成
+title: install-hermes-skill-from-github Skill
+created: 2026-04-14 06:45:00
+updated: 2026-04-15
+type: report
+category: agent-skills
+tags: [skill, install, github, hermesskill, 部署]
+status: 已记录
+skill_type: 系统集成
 ---
 
 # install-hermes-skill-from-github Skill
