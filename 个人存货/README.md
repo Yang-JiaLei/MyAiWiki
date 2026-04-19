@@ -48,11 +48,6 @@ tags: [personal, projects, notes, prompts]
 - [[个人存货/5. Prompt库/README|Prompt库入口]]
 - 放你长期复用的个人提示词资产
 
-### 6. 打卡系统
-
-- [[个人存货/6. 打卡系统/README|打卡系统入口]]
-- 放每日打卡、状态记录和个人节奏追踪
-
 ## 最近更新
 
 ```dataview
