@@ -13,6 +13,9 @@ tags: [wiki, ops, intake, lint, schema]
 
 ## 入口
 
+- [[AGENTS|Agent 协作规则]]
+- [[index|知识库索引]]
+- [[log|知识库维护日志]]
 - [[Wiki百科/0. 运维/知识库运行规范|知识库运行规范]]
 - [[Wiki百科/0. 运维/编辑规范|编辑规范]]
 - [[Wiki百科/0. 运维/命名规范|命名规范]]
