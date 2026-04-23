@@ -1,3 +1,14 @@
+---
+title: Gemini CLI README
+created: 2026-04-15
+updated: 2026-04-23
+type: source
+category: article
+tags: [source, imported, gemini-cli, readme]
+source_status: raw
+confidence: high
+---
+
 # Gemini CLI
 
 [![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)
@@ -398,3 +409,31 @@ for removal instructions.
 <p align="center">
   Built with ❤️ by Google and the open source community
 </p>
+## 来源信息
+
+- 上游文档类型：README
+- 归属项目：gemini-cli
+
+## 核心摘要
+
+说明 Gemini CLI 的定位、安装方式和主要功能范围。
+
+## 关键主张
+
+- Gemini CLI 面向终端工作流
+- 提供文件处理、工具调用和扩展能力
+
+## 影响到的页面
+
+- [[Wiki百科/1. 实体/1.4 工具/gemini-cli.md|gemini-cli]]
+- [[Wiki百科/2. 主题/2.4 领域知识/Gemini.md|Gemini]]
+- [[Wiki百科/1. 实体/1.3 产品/Google AI Studio.md|Google AI Studio]]
+
+## 原文链接
+
+- https://github.com/google-gemini/gemini-cli
+
+## 处理状态
+
+- 已登记
+- 已用于修正 gemini-cli 页面结构

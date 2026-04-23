@@ -1,7 +1,7 @@
 ---
 title: Dojo
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-23
 type: entity
 category: projects
 tags: [tesla, ai, supercomputer, training]
@@ -58,3 +58,23 @@ Tesla 的垂直整合战略：
 ---
 
 > "Dojo 是 Tesla 的 AI 训练基础设施核心。" — Elon Musk
+## 是什么
+
+Dojo 是 Tesla 体系中与 AI 训练基础设施相关的项目名称。
+
+## 关键事实
+
+- 与 Tesla、Autopilot 和算力投入叙事相关
+- 更偏底层训练基础设施而非终端产品
+
+## 相关主题
+
+- [[Wiki百科/2. 主题/2.2 技术/Transformer.md|Transformer]]
+
+## 相关来源
+
+- 暂待系统补齐来源页
+
+## 待验证点
+
+- 项目进展与外部公开信息需继续复核

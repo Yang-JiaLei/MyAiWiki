@@ -1,5 +1,6 @@
 ---
 title: 技术
+created: 2026-04-15
 updated: 2026-04-15
 type: index
 category: wiki-section

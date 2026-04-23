@@ -1,7 +1,7 @@
 ---
 title: RAG
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-23
 type: topic
 category: ai
 tags: [rag, retrieval, ai, llm, knowledge-base]
@@ -74,4 +74,30 @@ tags: [rag, retrieval, ai, llm, knowledge-base]
 ## 📚 参考
 
 - [Original LLM Wiki Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
-- [[日志.md#最近操作]]
+- [[日志#最近操作]]
+## 定义
+
+RAG 是把外部检索结果拼接进生成流程的一类工作模式。
+
+## 核心观点
+
+- 它擅长按问题临时取回上下文
+- 但不天然沉淀长期结构化知识
+
+## 关键方法或机制
+
+- 文档切块
+- 向量化检索
+- Top-K 召回后拼接到 Prompt
+
+## 相关实体
+
+- [[Wiki百科/1. 实体/1.3 产品/obsidian.md|Obsidian]]
+
+## 相关来源
+
+- [[Wiki百科/3. 原始来源/3.1 文章/karpathy-llm-wiki-gist.md|Karpathy LLM Wiki Gist]]
+
+## 开放问题
+
+- 在本知识库中，RAG 与 LLM Wiki 的边界还可继续细化

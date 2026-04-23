@@ -1,17 +1,18 @@
 ---
-标题: 技能树
-创建时间: 2026-04-12 11:55:04
-类别: 个人存货
+title: 技能树
+created: 2026-04-15
+updated: 2026-04-15
+type: index
+category: personal-skills
 ---
 
 # 技能树
 
-掌握的技能和订阅服务汇总
+放能力结构、订阅管理、技能成长计划和能力盘点。
 
-## 页面列表
-
-- [[3.1 订阅管理.md|订阅服务管理]]
-
----
-
-最后更新: 2026-04-12 11:55:04
+```dataview
+TABLE file.link as 页面
+FROM "个人存货/3. 技能树"
+WHERE file.name != "README"
+SORT file.name
+```

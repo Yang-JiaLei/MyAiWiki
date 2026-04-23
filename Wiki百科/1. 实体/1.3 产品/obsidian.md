@@ -1,7 +1,7 @@
 ---
 title: Obsidian
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-23
 type: entity
 category: products
 tags: [obsidian, note-taking, pkm, markdown]
@@ -25,3 +25,23 @@ url: https://obsidian.md
 
 ## 📚 参考
 - [[Wiki百科/2. 主题/2.1 AI/LLM-Wiki.md|LLM Wiki]]
+## 是什么
+
+Obsidian 是基于本地 Markdown 与双向链接的知识管理工具。
+
+## 关键事实
+
+- 在本知识库中承担主要浏览与编辑界面角色
+- 与 LLM Wiki 工作流和 Obsidian CLI 工具链相关
+
+## 相关主题
+
+- [[Wiki百科/2. 主题/2.1 AI/LLM-Wiki.md|LLM Wiki]]
+
+## 相关来源
+
+- 暂待系统补齐来源页
+
+## 待验证点
+
+- 需要继续沉淀插件、CLI 和知识库协作规范

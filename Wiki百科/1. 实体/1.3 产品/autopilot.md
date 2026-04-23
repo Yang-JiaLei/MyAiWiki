@@ -1,7 +1,7 @@
 ---
 title: Autopilot
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-23
 type: entity
 category: products
 tags: [tesla, autopilot, fsd, self-driving]
@@ -51,4 +51,24 @@ url: https://tesla.com/autopilot
 ## 📚 参考
 
 - [Tesla AI 官网](https://tesla.com/AI)
-- [[日志.md#最近操作]]
+- [[日志#最近操作]]
+## 是什么
+
+Autopilot 是 Tesla 自动驾驶能力相关的核心产品名之一。
+
+## 关键事实
+
+- 与 Tesla、Dojo 及车载 AI 能力关联紧密
+- 属于自动驾驶产品能力集合而非单一模型
+
+## 相关主题
+
+- [[Wiki百科/2. 主题/2.2 技术/Transformer.md|Transformer]]
+
+## 相关来源
+
+- 暂待系统补齐来源页
+
+## 待验证点
+
+- FSD、Autopilot 与具体功能边界需进一步澄清

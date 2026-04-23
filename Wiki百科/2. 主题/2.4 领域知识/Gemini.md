@@ -1,11 +1,12 @@
 ---
 title: Gemini
-updated: 2026-04-15
+created: 2026-04-15
+updated: 2026-04-23
 type: topic
 category: ai-models
 related:
   - [[Wiki百科/1. 实体/1.4 工具/gemini-cli.md]]
-  - [[Google]]
+  - [[Wiki百科/1. 实体/1.2 公司/Google.md]]
   - [[Wiki百科/1. 实体/1.2 公司/openai.md]]
   - [[Wiki百科/1. 实体/1.3 产品/gpt.md]]
 ---
@@ -68,5 +69,33 @@ gemini "你的问题"
 ## 相关主题
 
 - [[Wiki百科/2. 主题/2.3 方法论/Prompt Engineering.md]] — 优化与 Gemini 的交互提示
-- [[Google AI Studio]] — 获取 API Key 和测试
+- [[Wiki百科/1. 实体/1.3 产品/Google AI Studio.md|Google AI Studio]] — 获取 API Key 和测试
 - [[Wiki百科/2. 主题/2.2 技术/LLM.md]] — 大语言模型概述
+## 定义
+
+Gemini 是 Google 体系中的模型系列专题页。
+
+## 核心观点
+
+- 该页适合承载模型族谱与能力演进
+- 工具接入和开发者入口应分别落到实体页
+
+## 关键方法或机制
+
+- 多模态输入
+- 长上下文支持
+- 模型系列分层
+
+## 相关实体
+
+- [[Wiki百科/1. 实体/1.2 公司/Google.md|Google]]
+- [[Wiki百科/1. 实体/1.3 产品/Google AI Studio.md|Google AI Studio]]
+- [[Wiki百科/1. 实体/1.4 工具/gemini-cli.md|gemini-cli]]
+
+## 相关来源
+
+- [[Wiki百科/3. 原始来源/3.1 文章/gemini-cli-README.md|Gemini CLI README]]
+
+## 开放问题
+
+- 需要继续补齐 Gemini 各版本与能力边界的时间标签

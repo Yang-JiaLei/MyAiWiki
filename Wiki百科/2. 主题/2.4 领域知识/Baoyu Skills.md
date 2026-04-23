@@ -1,6 +1,7 @@
 ---
 title: Baoyu Skills
-updated: 2026-04-15
+created: 2026-04-15
+updated: 2026-04-23
 type: topic
 category: tool-collections
 tags: [claude-code, skills, ai, automation, content-generation, image-generation]
@@ -18,12 +19,12 @@ tags: [claude-code, skills, ai, automation, content-generation, image-generation
 
 | 技能 | 说明 | 主要功能 |
 |------|------|----------|
-| [[baoyu-article-illustrator]] | 文章配图生成 | 为文章自动生成插图 |
-| [[baoyu-comic]] | 漫画生成 | 创建漫画和分镜 |
-| [[baoyu-cover-image]] | 封面图生成 | 生成文章/视频封面 |
-| [[baoyu-post-to-wechat]] | 微信发布 | 将内容发布到微信公众号 |
-| [[baoyu-post-to-weibo]] | 微博发布 | 发布到微博 |
-| [[baoyu-post-to-x]] | X (Twitter) 发布 | 发布到 X 平台 |
+| `baoyu-article-illustrator` | 文章配图生成 | 为文章自动生成插图 |
+| `baoyu-comic` | 漫画生成 | 创建漫画和分镜 |
+| `baoyu-cover-image` | 封面图生成 | 生成文章/视频封面 |
+| `baoyu-post-to-wechat` | 微信发布 | 将内容发布到微信公众号 |
+| `baoyu-post-to-weibo` | 微博发布 | 发布到微博 |
+| `baoyu-post-to-x` | X (Twitter) 发布 | 发布到 X 平台 |
 
 ### AI 生成技能 (AI Generation Skills)
 
@@ -31,10 +32,10 @@ tags: [claude-code, skills, ai, automation, content-generation, image-generation
 
 | 技能 | 说明 | 后端 |
 |------|------|------|
-| [[baoyu-image-gen]] | 图像生成 | 多模型支持 |
-| [[baoyu-imagine]] | AI 绘图 | DALL-E/Stable Diffusion |
-| [[baoyu-diagram]] | 图表生成 | Mermaid, Graphviz |
-| [[baoyu-infographic]] | 信息图生成 | 数据可视化 |
+| `baoyu-image-gen` | 图像生成 | 多模型支持 |
+| `baoyu-imagine` | AI 绘图 | DALL-E/Stable Diffusion |
+| `baoyu-diagram` | 图表生成 | Mermaid, Graphviz |
+| `baoyu-infographic` | 信息图生成 | 数据可视化 |
 
 ### 工具技能 (Utility Skills)
 
@@ -42,19 +43,19 @@ tags: [claude-code, skills, ai, automation, content-generation, image-generation
 
 | 技能 | 说明 | 依赖 |
 |------|------|------|
-| [[baoyu-compress-image]] | 图片压缩 | 无损/有损压缩 |
-| [[baoyu-format-markdown]] | Markdown 格式化 | 规范化和美化 |
-| [[baoyu-translate]] | 翻译 | 多语言支持 |
-| [[baoyu-url-to-markdown]] | URL 转 Markdown | 基于 [[baoyu-fetch]] |
-| [[baoyu-xhs-images]] | 小红书图片处理 | 水印移除、裁剪 |
-| [[baoyu-youtube-transcript]] | YouTube 字幕 | 提取和翻译 |
+| `baoyu-compress-image` | 图片压缩 | 无损/有损压缩 |
+| `baoyu-format-markdown` | Markdown 格式化 | 规范化和美化 |
+| `baoyu-translate` | 翻译 | 多语言支持 |
+| `baoyu-url-to-markdown` | URL 转 Markdown | 基于 `baoyu-fetch` |
+| `baoyu-xhs-images` | 小红书图片处理 | 水印移除、裁剪 |
+| `baoyu-youtube-transcript` | YouTube 字幕 | 提取和翻译 |
 
 ### 特殊技能
 
 | 技能 | 说明 | 警告 |
 |------|------|------|
-| [[baoyu-danger-gemini-web]] | Gemini Web 集成 | 实验性功能 |
-| [[baoyu-danger-x-to-markdown]] | X 内容转 Markdown | 违反 ToS 风险 |
+| `baoyu-danger-gemini-web` | Gemini Web 集成 | 实验性功能 |
+| `baoyu-danger-x-to-markdown` | X 内容转 Markdown | 违反 ToS 风险 |
 
 ## 核心组件
 
@@ -124,3 +125,30 @@ skills add jimliu/baoyu-skills
 - 项目仓库: https://github.com/jimliu/baoyu-skills
 - 安装文档: `[[Wiki百科/1. 实体/1.4 工具/baoyu-skills.md|Wiki百科/1. 实体/1.4 工具/baoyu-skills.md]]`
 - 原始文档: `[[Wiki百科/3. 原始来源/3.1 文章/baoyu-skills-README.md|Wiki百科/3. 原始来源/3.1 文章/baoyu-skills-README.md]]`
+## 定义
+
+Baoyu Skills 是一组偏内容生产与自动化的技能集合专题。
+
+## 核心观点
+
+- 该专题页更适合承载技能族谱和能力边界
+- 具体工具说明应继续落到实体页和原始来源页
+
+## 关键方法或机制
+
+- 技能分层
+- 工具链组合
+- 内容生成工作流
+
+## 相关实体
+
+- [[Wiki百科/1. 实体/1.4 工具/baoyu-skills.md|baoyu-skills]]
+
+## 相关来源
+
+- [[Wiki百科/3. 原始来源/3.1 文章/baoyu-skills-README.md|baoyu-skills README]]
+- [[Wiki百科/3. 原始来源/3.1 文章/baoyu-skills-CHANGELOG.md|baoyu-skills CHANGELOG]]
+
+## 开放问题
+
+- 具体技能拆页粒度和维护边界仍需继续收敛

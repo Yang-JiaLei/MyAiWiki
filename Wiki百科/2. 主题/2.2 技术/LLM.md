@@ -1,7 +1,7 @@
 ---
 title: LLM
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-23
 type: topic
 category: ai
 tags: [llm, ai, language-model, nlp]
@@ -47,4 +47,32 @@ tags: [llm, ai, language-model, nlp]
 ## 📚 参考
 
 - [[个人存货/1. 项目/1.4 Agent 配置.md]]
-- [[日志.md#最近操作]]
+- [[日志#最近操作]]
+## 定义
+
+LLM 指在大规模文本上训练出来、具备语言理解与生成能力的大语言模型。
+
+## 核心观点
+
+- LLM 是当前大多数 Agent 和生成式工作流的基础能力层
+- 不同模型族在多模态、推理和工具调用方面各有侧重
+
+## 关键方法或机制
+
+- 预训练
+- 指令对齐
+- 上下文推理
+
+## 相关实体
+
+- [[Wiki百科/1. 实体/1.2 公司/openai.md|OpenAI]]
+- [[Wiki百科/1. 实体/1.3 产品/gpt.md|GPT]]
+- [[Wiki百科/1. 实体/1.4 工具/gemini-cli.md|gemini-cli]]
+
+## 相关来源
+
+- [[Wiki百科/3. 原始来源/3.1 文章/karpathy-llm-wiki-gist.md|Karpathy LLM Wiki Gist]]
+
+## 开放问题
+
+- 需要进一步补齐不同模型家族的版本化比较

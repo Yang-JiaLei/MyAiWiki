@@ -1,3 +1,14 @@
+---
+title: baoyu-skills CHANGELOG
+created: 2026-04-15
+updated: 2026-04-23
+type: source
+category: article
+tags: [source, imported, baoyu-skills, changelog]
+source_status: raw
+confidence: high
+---
+
 # Changelog
 
 [English](./CHANGELOG.md) | 中文
@@ -1408,3 +1419,30 @@
 ## 0.1.0 - 2026-01-13
 
 - 初始发布：提供 `.claude-plugin/marketplace.json` 与 `gemini-web`（文本/图片生成、cookie 登录与缓存流程）。
+## 来源信息
+
+- 上游文档类型：CHANGELOG
+- 归属项目：baoyu-skills
+
+## 核心摘要
+
+记录 baoyu-skills 各版本的增量变化与能力更新。
+
+## 关键主张
+
+- 技能集合仍在持续迭代
+- 新技能和参数设计变化较快
+
+## 影响到的页面
+
+- [[Wiki百科/1. 实体/1.4 工具/baoyu-skills.md|baoyu-skills]]
+- [[Wiki百科/2. 主题/2.4 领域知识/Baoyu Skills.md|Baoyu Skills]]
+
+## 原文链接
+
+- 导入自上游仓库文档
+
+## 处理状态
+
+- 已登记
+- 待进一步摘要化

@@ -1,3 +1,14 @@
+---
+title: baoyu-skills README
+created: 2026-04-15
+updated: 2026-04-23
+type: source
+category: article
+tags: [source, imported, baoyu-skills, readme]
+source_status: raw
+confidence: high
+---
+
 # baoyu-skills
 
 [English](./README.md) | 中文
@@ -1273,3 +1284,30 @@ MIT
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=JimLiu/baoyu-skills&type=Date)](https://www.star-history.com/#JimLiu/baoyu-skills&Date)
+## 来源信息
+
+- 上游文档类型：README
+- 归属项目：baoyu-skills
+
+## 核心摘要
+
+说明 baoyu-skills 的安装方式、使用前提和技能发布方式。
+
+## 关键主张
+
+- 项目面向技能安装与发布工作流
+- 安装入口和分发方式较多
+
+## 影响到的页面
+
+- [[Wiki百科/1. 实体/1.4 工具/baoyu-skills.md|baoyu-skills]]
+- [[Wiki百科/2. 主题/2.4 领域知识/Baoyu Skills.md|Baoyu Skills]]
+
+## 原文链接
+
+- 导入自上游仓库文档
+
+## 处理状态
+
+- 已登记
+- 待进一步摘要化

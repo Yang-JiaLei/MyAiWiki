@@ -1,3 +1,14 @@
+---
+title: baoyu-skills CLAUDE
+created: 2026-04-15
+updated: 2026-04-23
+type: source
+category: article
+tags: [source, imported, baoyu-skills, claude]
+source_status: raw
+confidence: high
+---
+
 # CLAUDE.md
 
 Claude Code marketplace plugin providing AI-powered content generation skills. Version: **1.97.0**.
@@ -81,3 +92,30 @@ All skills MUST use `baoyu-` prefix. Details: [docs/creating-skills.md](docs/cre
 | Chrome profile platform paths | [docs/chrome-profile.md](docs/chrome-profile.md) |
 | Comic style maintenance | [docs/comic-style-maintenance.md](docs/comic-style-maintenance.md) |
 | ClawHub/OpenClaw publishing | [docs/publishing.md](docs/publishing.md) |
+## 来源信息
+
+- 上游文档类型：CLAUDE / 说明文档
+- 归属项目：baoyu-skills
+
+## 核心摘要
+
+描述 baoyu-skills 的整体架构、运行方式和依赖项。
+
+## 关键主张
+
+- 技能由统一插件与技能目录组织
+- 运行时与浏览器依赖是关键约束
+
+## 影响到的页面
+
+- [[Wiki百科/1. 实体/1.4 工具/baoyu-skills.md|baoyu-skills]]
+- [[Wiki百科/2. 主题/2.4 领域知识/Baoyu Skills.md|Baoyu Skills]]
+
+## 原文链接
+
+- 导入自上游仓库文档
+
+## 处理状态
+
+- 已登记
+- 待进一步摘要化

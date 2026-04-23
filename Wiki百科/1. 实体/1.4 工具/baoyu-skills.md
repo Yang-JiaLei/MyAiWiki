@@ -1,7 +1,7 @@
 ---
 title: baoyu-skills
 created: 2026-04-12
-updated: 2026-04-15
+updated: 2026-04-23
 type: entity
 category: tools
 tags: [claude-code, skills, ai-agent, content-generation]
@@ -104,3 +104,24 @@ baoyu-fetch https://x.com/lennysan/status/2036483059407810640 --wait-for interac
 - 原始 README: `[[Wiki百科/3. 原始来源/3.1 文章/baoyu-skills-README.md|Wiki百科/3. 原始来源/3.1 文章/baoyu-skills-README.md]]`
 - 更新日志: `[[Wiki百科/3. 原始来源/3.1 文章/baoyu-skills-CHANGELOG.md|Wiki百科/3. 原始来源/3.1 文章/baoyu-skills-CHANGELOG.md]]`
 - Claude 集成说明: `[[Wiki百科/3. 原始来源/3.1 文章/baoyu-skills-CLAUDE.md|Wiki百科/3. 原始来源/3.1 文章/baoyu-skills-CLAUDE.md]]`
+## 是什么
+
+aoyu-skills 是一组围绕内容生成与工作流增强的技能集合。
+
+## 关键事实
+
+- 与技能生态、内容生产和自动化工作流相关
+- 既有实体页，也有专题页与原始来源页支撑
+
+## 相关主题
+
+- [[Wiki百科/2. 主题/2.4 领域知识/Baoyu Skills.md|Baoyu Skills]]
+
+## 相关来源
+
+- [[Wiki百科/3. 原始来源/3.1 文章/baoyu-skills-README.md|baoyu-skills README]]
+- [[Wiki百科/3. 原始来源/3.1 文章/baoyu-skills-CHANGELOG.md|baoyu-skills CHANGELOG]]
+
+## 待验证点
+
+- 具体技能清单和版本节奏需要继续跟进

@@ -1,7 +1,7 @@
 ---
 title: OpenAI
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-23
 type: entity
 category: companies
 tags: [ai, openai, gpt, research]
@@ -90,4 +90,25 @@ OpenAI 的独特之处：
 ## 📚 参考
 
 - [OpenAI 官方博客](https://openai.com/blog)
-- [[日志.md#最近操作]]
+- [[日志#最近操作]]
+## 是什么
+
+OpenAI 是面向通用人工智能研究与产品化的核心公司之一。
+
+## 关键事实
+
+- 以 GPT、ChatGPT 等产品为代表
+- 同时覆盖研究、API 与消费者产品
+
+## 相关主题
+
+- [[Wiki百科/2. 主题/2.2 技术/LLM.md|LLM]]
+- [[Wiki百科/2. 主题/2.3 方法论/Prompt Engineering.md|Prompt Engineering]]
+
+## 相关来源
+
+- 暂待系统补齐来源页
+
+## 待验证点
+
+- 组织结构与高管信息随时间变化较快，需持续复核

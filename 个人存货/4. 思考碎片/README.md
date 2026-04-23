@@ -1,17 +1,20 @@
 ---
-标题: 思考碎片
-创建时间: 2026-04-12 11:55:04
-类别: 个人存货
+title: 思考碎片
+created: 2026-04-15
+updated: 2026-04-15
+type: index
+category: personal-thoughts
 ---
 
 # 思考碎片
 
-未来的想法和碎片化记录
+放未定稿的想法、问题、观察和短笔记。
 
-## 页面列表
+如果内容已经成体系，应迁到 `项目 / 学习笔记 / Wiki百科` 中更合适的位置。
 
-*暂无页面*
-
----
-
-最后更新: 2026-04-12 11:55:04
+```dataview
+TABLE file.link as 页面
+FROM "个人存货/4. 思考碎片"
+WHERE file.name != "README"
+SORT file.name
+```

@@ -1,7 +1,7 @@
 ---
 title: GPT
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-23
 type: entity
 category: products
 tags: [gpt, llm, openai, language-model]
@@ -35,4 +35,25 @@ url: https://openai.com/gpt
 ## 📚 参考
 
 - [[个人存货/1. 项目/1.4 Agent 配置.md]]
-- [[日志.md#最近操作]]
+- [[日志#最近操作]]
+## 是什么
+
+GPT 是 OpenAI 推出的生成式预训练 Transformer 模型系列。
+
+## 关键事实
+
+- 是 ChatGPT 等产品背后的核心模型族
+- 与 Transformer 路线和 LLM 发展密切相关
+
+## 相关主题
+
+- [[Wiki百科/2. 主题/2.2 技术/LLM.md|LLM]]
+- [[Wiki百科/2. 主题/2.2 技术/Transformer.md|Transformer]]
+
+## 相关来源
+
+- 暂待系统补齐来源页
+
+## 待验证点
+
+- GPT 各代版本的边界和命名仍需细化整理

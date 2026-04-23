@@ -1,7 +1,7 @@
 ---
 title: Tesla
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-23
 type: entity
 category: companies
 tags: [tesla, ev, autopilot, automotive]
@@ -96,3 +96,23 @@ url: https://tesla.com
 ---
 
 > "加速世界向可持续能源的转变。" — Tesla 使命
+## 是什么
+
+Tesla 是同时涉足电动车、自动驾驶和 AI 基础设施的科技公司。
+
+## 关键事实
+
+- 与 Autopilot、Dojo、Andrej Karpathy 等节点相关
+- 自动驾驶与算力投入是其 AI 叙事的重要组成部分
+
+## 相关主题
+
+- [[Wiki百科/2. 主题/2.2 技术/LLM.md|LLM]]
+
+## 相关来源
+
+- 暂待系统补齐来源页
+
+## 待验证点
+
+- 自动驾驶路线与 Dojo 进展需要更持续的来源跟踪

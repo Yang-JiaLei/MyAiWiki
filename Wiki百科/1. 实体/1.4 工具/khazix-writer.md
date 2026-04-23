@@ -1,7 +1,7 @@
 ---
 title: khazix-writer
 created: 2026-04-14 06:35:00
-updated: 2026-04-15
+updated: 2026-04-23
 type: entity
 category: tools
 tags: [skill, 写作, 公众号, 长文, 风格, 工具]
@@ -189,7 +189,7 @@ Skill 可以处理各种形式的输入：
 ## 相关技能
 
 - [[hv-analysis]] - 横纵分析法深度研究
-- [[wechat-title]] - 标题摘要生成
+- [[Wiki百科/1. 实体/1.4 工具/wechat-title.md|wechat-title]] - 标题摘要生成
 
 ## 作者信息
 
@@ -213,3 +213,23 @@ Skill 可以处理各种形式的输入：
 ---
 
 **提示**: 这个Skill主要用于内容创作。记住：AI是工具，你的思考和见解才是核心。保持"有见识的普通人"的视角，写出打动人心的内容。
+## 是什么
+
+khazix-writer 是用于公众号长文写作和风格化内容生成的技能工具。
+
+## 关键事实
+
+- 强调特定作者风格和内容表达
+- 适合长文、深度稿和改写场景
+
+## 相关主题
+
+- [[Wiki百科/2. 主题/2.3 方法论/Prompt Engineering.md|Prompt Engineering]]
+
+## 相关来源
+
+- [[Agent产出/3. Skills/安装日志|khazix-skills 安装日志]]
+
+## 待验证点
+
+- 需要继续验证风格一致性和适用边界

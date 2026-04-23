@@ -1,20 +1,20 @@
 ---
-标题: 项目
-创建时间: 2026-04-12 11:55:04
-类别: 个人存货
+title: 项目
+created: 2026-04-15
+updated: 2026-04-15
+type: index
+category: personal-projects
 ---
 
 # 项目
 
-技术项目和工具配置文档
+放你自己维护、配置、部署或长期使用的项目文档。
 
-## 页面列表
+不放外部产品百科页；如果页面主要是介绍外部对象本身，应移到 `Wiki百科`。
 
-- [[1.1 工具文档.md|工具文档集合]]
-- [[1.2 Hermes Agent.md|Hermes Agent 项目说明]]
-- [[1.3 FastNodeSync.md|FastNodeSync 同步工具]]
-- [[1.4 Agent 配置.md|Agent 配置文件]]
-
----
-
-最后更新: 2026-04-12 11:55:04
+```dataview
+TABLE file.link as 页面
+FROM "个人存货/1. 项目"
+WHERE file.name != "README"
+SORT file.name
+```

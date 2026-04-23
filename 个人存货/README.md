@@ -48,6 +48,11 @@ tags: [personal, projects, notes, prompts]
 - [[个人存货/5. Prompt库/README|Prompt库入口]]
 - 放你长期复用的个人提示词资产
 
+### 99. 学习资料
+
+- [[个人存货/99.学习资料/README|学习资料入口]]
+- 放值得长期保留的 PDF、手册和原始学习包
+
 ## 最近更新
 
 ```dataview

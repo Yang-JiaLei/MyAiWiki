@@ -1,7 +1,7 @@
 ---
 title: Transformer
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-23
 type: topic
 category: ai
 tags: [transformer, architecture, attention, deep-learning]
@@ -43,3 +43,30 @@ Transformer 是当今几乎所有 LLM 的基础架构：
 ---
 
 > "Attention is all you need." — 论文标题
+## 定义
+
+Transformer 是当前主流大模型体系的重要神经网络架构基础。
+
+## 核心观点
+
+- 它是 GPT、LLM 等能力演化的重要底层路线
+- 也是理解现代生成式 AI 的关键入口
+
+## 关键方法或机制
+
+- 注意力机制
+- 编码器/解码器结构
+- 大规模并行训练
+
+## 相关实体
+
+- [[Wiki百科/1. 实体/1.3 产品/gpt.md|GPT]]
+- [[Wiki百科/1. 实体/1.1 人物/andrej-karpathy.md|安德烈·卡帕西]]
+
+## 相关来源
+
+- 暂待系统补齐来源页
+
+## 开放问题
+
+- 需要继续沉淀其与长上下文、多模态架构的关系

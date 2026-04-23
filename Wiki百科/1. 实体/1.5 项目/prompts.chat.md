@@ -1,7 +1,7 @@
 ---
 title: prompts.chat
 created: 2026-04-13 05:25:00
-updated: 2026-04-15
+updated: 2026-04-23
 type: entity
 category: projects
 tags: [prompt, 提示词, 开源, AI, 工具]
@@ -89,7 +89,7 @@ npm install && npm run setup
 
 ## 与个人Prompt库的关系
 
-我的[[个人Prompt库]]项目参考了 prompts.chat 的以下方面：
+我的[[个人存货/5. Prompt库/个人Prompt库.md|个人Prompt库]]项目参考了 prompts.chat 的以下方面：
 
 ### 借鉴的设计
 1. **数据格式**：采用类似的CSV结构
@@ -118,13 +118,13 @@ npm install && npm run setup
 ## 相关项目
 
 ### 类似项目
-- [[Awesome ChatGPT Prompts]] - 前身项目
-- [[Prompt Engineering Guide]] - 提示词工程指南
-- [[OpenAI Cookbook]] - OpenAI官方示例
+- [[Wiki百科/3. 原始来源/3.1 文章/prompts-chat-PROMPTS.md|Awesome ChatGPT Prompts]] - 前身项目
+- [[Wiki百科/2. 主题/2.3 方法论/Prompt Engineering.md|Prompt Engineering]] - 提示词工程指南
+- OpenAI Cookbook - OpenAI 官方示例资源
 
 ### 衍生项目
-- [[个人Prompt库]] - 基于此项目的个人化版本
-- [[企业Prompt库]] - 企业级提示词管理系统
+- [[个人存货/5. Prompt库/个人Prompt库.md|个人Prompt库]] - 基于此项目的个人化版本
+- [[个人存货/5. Prompt库/企业Prompt库.md|企业Prompt库]] - 企业级提示词管理系统
 
 ## 技术栈
 
@@ -175,4 +175,24 @@ npm install && npm run setup
 
 ---
 
-**参考**: 本项目是[[个人Prompt库]]的主要参考来源，提供了成熟的开源提示词库架构和实践经验。
+**参考**: 本项目是[[个人存货/5. Prompt库/个人Prompt库.md|个人Prompt库]]的主要参考来源，提供了成熟的开源提示词库架构和实践经验。
+## 是什么
+
+prompts.chat 是一个大规模开源提示词库项目。
+
+## 关键事实
+
+- 与提示词收集、复用和分类体系高度相关
+- 对个人 Prompt 库建设有明显参考价值
+
+## 相关主题
+
+- [[Wiki百科/2. 主题/2.3 方法论/Prompt Engineering.md|Prompt Engineering]]
+
+## 相关来源
+
+- [[Wiki百科/3. 原始来源/3.1 文章/prompts-chat-PROMPTS.md|Awesome ChatGPT Prompts]]
+
+## 待验证点
+
+- 项目技术栈与站点实现细节仍需来源验证

@@ -1,7 +1,7 @@
 ---
 title: 安德烈·卡帕西
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-23
 type: entity
 category: people
 tags: [ai, 研究者, 教育家, tesla, openai]
@@ -88,3 +88,25 @@ url: https://karpathy.ai
 ---
 
 > "I try to do things that are educational and somewhat meaningful." — Andrej Karpathy
+## 是什么
+
+安德烈·卡帕西是兼具研究、工程和教育影响力的 AI 人物。
+
+## 关键事实
+
+- 研究方向覆盖计算机视觉、深度学习和 LLM
+- 与 Stanford、Tesla、OpenAI 等节点高度相关
+
+## 相关主题
+
+- [[Wiki百科/2. 主题/2.2 技术/LLM.md|LLM]]
+- [[Wiki百科/2. 主题/2.2 技术/Transformer.md|Transformer]]
+- [[Wiki百科/2. 主题/2.1 AI/LLM-Wiki.md|LLM Wiki]]
+
+## 相关来源
+
+- [[Wiki百科/3. 原始来源/3.1 文章/karpathy-llm-wiki-gist.md|Karpathy LLM Wiki Gist]]
+
+## 待验证点
+
+- 2024 年之后的最新公开动态仍需补充

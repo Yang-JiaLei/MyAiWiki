@@ -1,5 +1,8 @@
 ---
 title: 示例 - GitHub 账号
+updated: 2026-04-23
+type: template
+category: account-example
 service: GitHub
 username: your_username
 password_ref: 存储在密码管理器中

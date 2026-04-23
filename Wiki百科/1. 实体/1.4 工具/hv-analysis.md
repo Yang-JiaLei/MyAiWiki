@@ -1,7 +1,7 @@
 ---
 title: hv-analysis
 created: 2026-04-14 06:35:00
-updated: 2026-04-15
+updated: 2026-04-23
 type: entity
 category: tools
 tags: [skill, 横纵分析法, 深度研究, 分析框架, 工具]
@@ -142,7 +142,7 @@ Agent: [自动触发 hv-analysis skill]
 ## 相关技能
 
 - [[khazix-writer]] - 公众号长文写作技能
-- [[wechat-title]] - 标题摘要生成技能
+- [[Wiki百科/1. 实体/1.4 工具/wechat-title.md|wechat-title]] - 标题摘要生成技能
 
 ## 作者信息
 
@@ -165,3 +165,23 @@ Agent: [自动触发 hv-analysis skill]
 ---
 
 **提示**: 这是一个重量级Skill，需要联网搜索和PDF生成能力。确保系统已安装 `weasyprint` 和 `markdown` 依赖。
+## 是什么
+
+hv-analysis 是用于横纵分析法深度研究的技能工具。
+
+## 关键事实
+
+- 适合做结构化研究与竞品分析
+- 当前与 Hermes Agent 和个人研究流程高度相关
+
+## 相关主题
+
+- [[Wiki百科/2. 主题/2.3 方法论/Prompt Engineering.md|Prompt Engineering]]
+
+## 相关来源
+
+- [[Agent产出/3. Skills/安装日志|khazix-skills 安装日志]]
+
+## 待验证点
+
+- 需要继续验证输出质量和复用频率
